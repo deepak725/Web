@@ -1,0 +1,11 @@
+{
+  "name": "notes-backend",
+  "version": "1.0.0",
+  "description": "demo for notes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo failed && exit 1"
+  },
+  "author": "deepak",
+  "license": "ISC"
+}
